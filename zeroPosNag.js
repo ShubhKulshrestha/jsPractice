@@ -1,3 +1,4 @@
+//check zero, positive, negative 
 let a = parseInt(prompt("Enter the number"));
 if (a===0){
     console.log("The number is zero");
